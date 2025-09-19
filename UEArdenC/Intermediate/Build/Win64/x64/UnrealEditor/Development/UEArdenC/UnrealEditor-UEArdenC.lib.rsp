@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UEArdenC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UEArdenCEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEArdenC\MyActorTest.gen.cpp.obj"
+"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEArdenC\UEArdenC.init.gen.cpp.obj"
+"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEArdenC\MyActorTest.cpp.obj"
+"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEArdenC\UEArdenC.cpp.obj"
+"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEArdenC\PerModuleInline.gen.cpp.obj"
+"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEArdenC\Default.rc2.res"
+/OUT:"C:\Users\PC Workstation R5\OneDrive\Documentos\GitHub\UnrealEngineCArden2025\UEArdenC\Intermediate\Build\Win64\x64\UnrealEditor\Development\UEArdenC\UnrealEditor-UEArdenC.lib"

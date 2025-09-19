@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc workstation r5\\onedrive\\documentos\\github\\unrealenginecarden2025\\ueardenc\\source\\ueardenc\\ueardenc.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc workstation r5\\onedrive\\documentos\\github\\unrealenginecarden2025\\ueardenc\\intermediate\\build\\win64\\x64\\ueardenceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\pc workstation r5\\onedrive\\documentos\\github\\unrealenginecarden2025\\ueardenc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ueardenc\\definitions.ueardenc.h",
+            "c:\\users\\pc workstation r5\\onedrive\\documentos\\github\\unrealenginecarden2025\\ueardenc\\source\\ueardenc\\ueardenc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
